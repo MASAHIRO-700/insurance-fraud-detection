@@ -30,4 +30,3 @@
 
 - 氏名：MASAHIRO-700
 - GitHub：https://github.com/MASAHIRO-700
-- 分析・データサイエンスに関心がある方は、ぜひご覧ください
