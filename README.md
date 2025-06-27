@@ -49,8 +49,7 @@ It includes not only model training and evaluation but also interpretability ana
 ## ファイル構成 / File Structure
 insurance-fraud-detection/
 ├── fraud_detection_shap.ipynb # メインノートブック（モデル構築〜可視化まで）
-├── README.md # 本ファイル
-└── data/ # データ（非公開）
+└── README.md # 本ファイル
 
 ---
 
