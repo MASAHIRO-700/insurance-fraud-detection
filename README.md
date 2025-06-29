@@ -17,9 +17,9 @@ It includes not only model training and evaluation but also interpretability ana
 -  **テーマ / Theme**: 保険請求データにおける詐欺検出 / Insurance Fraud Detection
 -  **使用モデル / Models**: 決定木、ランダムフォレスト、XGBoost
 -  **評価指標 / Metrics**:
-  - F1-score: `0.61`
-  - ROC AUC: `0.96`
-  - PR AUC: `0.34` など
+  - F1-score: `0.32`
+  - ROC AUC: `0.86`
+  - PR AUC: `0.29` など
 -  **注目特徴量 / Key Features**: `Fault`, `BasePolicy`, `Days_Diff`, `Is_YoungDriver`
 -  **解釈手法 / Interpretability**: SHAP（特徴量ごとの影響を可視化）
 
