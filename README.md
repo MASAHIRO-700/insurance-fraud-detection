@@ -64,13 +64,12 @@
 
 ## ファイル構成 / File Structure
 
-insurance-fraud-detection/
-├── insurance_fraud_detection_jp.ipynb   # 日本語ノートブック：前処理〜モデル構築・評価・可視化まで
-│                                        # Notebook written in Japanese: preprocessing, modeling, evaluation, and SHAP visualization
-├── insurance_fraud_detection_en.ipynb   # 英語ノートブック：内容は日本語版と同様、コメント・出力などすべて英語化
-│                                        # Notebook written in English with the same content as JP version (fully translated comments & outputs)
-└── README.md                            # 日本語＋英語の説明を併記したREADMEファイル
-                                         # README file with both Japanese and English descriptions
+| ファイル名 / File Name                  | 説明 / Description                                                                 |
+|----------------------------------------|------------------------------------------------------------------------------------|
+| `insurance_fraud_detection_jp.ipynb`   | 日本語ノートブック：前処理〜モデル構築・評価・可視化まで<br>Notebook in Japanese: preprocessing, modeling, evaluation, and SHAP visualization |
+| `insurance_fraud_detection_en.ipynb`   | 英語ノートブック：内容は日本語版と同様、コメント・出力などすべて英語化<br>Notebook in English: same as JP version (fully translated comments & outputs) |
+| `README.md`                            | 日本語＋英語の説明を併記したREADMEファイル<br>README file with both Japanese and English descriptions |
+
 
 ---
 
