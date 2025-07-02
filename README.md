@@ -66,6 +66,29 @@
 
 ```plaintext
 insurance-fraud-detection/
-├── fraud_detection_shap.ipynb   # メインノートブック（モデル構築〜可視化まで）
-│                                # Main notebook (modeling to SHAP visualization)
-└── README.md                    # 本ファイル / This README file
+├── insurance_fraud_detection_jp.ipynb   # 日本語ノートブック：前処理〜モデル構築・評価・可視化まで
+│                                        # Notebook written in Japanese: preprocessing, modeling, evaluation, and SHAP visualization
+├── insurance_fraud_detection_en.ipynb   # 英語ノートブック：内容は日本語版と同様、コメント・出力などすべて英語化
+│                                        # Notebook written in English with the same content as JP version (fully translated comments & outputs)
+└── README.md                            # 日本語＋英語の説明を併記したREADMEファイル
+                                         # README file with both Japanese and English descriptions
+
+---
+
+## 今後の課題 / Future Work
+
+- より高度なモデル（CatBoost, TabNetなど）の導入  
+  *Implement more advanced models such as CatBoost and TabNet*
+
+- 異常検知系手法（IsolationForest等）との比較  
+  *Compare with anomaly detection methods like IsolationForest*
+
+- ドメイン知識を活かした特徴量設計の追加  
+  *Enhance feature engineering using domain-specific knowledge*
+
+---
+
+## お問い合わせ / Contact
+
+- Author: Masahiro Okada  
+- GitHub: [@MASAHIRO-700](https://github.com/MASAHIRO-700)
