@@ -64,7 +64,6 @@
 
 ## ファイル構成 / File Structure
 
-```plaintext
 insurance-fraud-detection/
 ├── insurance_fraud_detection_jp.ipynb   # 日本語ノートブック：前処理〜モデル構築・評価・可視化まで
 │                                        # Notebook written in Japanese: preprocessing, modeling, evaluation, and SHAP visualization
